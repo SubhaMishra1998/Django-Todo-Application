@@ -2,7 +2,7 @@ version: "3"
 
 services:
   django:
-    image: django:1 
+    image: rajasubha/django:1 
     ports:
       - 8000:8000
   
